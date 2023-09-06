@@ -33,7 +33,7 @@ pipeline{
               nexusVersion: 'nexus3', 
               protocol: 'http', 
               repository: 'ediane-maven-nexus-repo', 
-              version: '001'
+              version: '0.0.1'
         }
     }
 
